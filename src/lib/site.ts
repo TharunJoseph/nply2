@@ -17,8 +17,8 @@ export const contacts: Contact[] = [
 export const site = {
   name: "NPLYBOARDS",
   tagline: "Premium plywood and wood solutions in Kerala.",
-  email: "keralamatchindustries@gmail.com",
-  emailHref: "mailto:keralamatchindustries@gmail.com",
+  email: "info@nply.in",
+  emailHref: "mailto:info@nply.in",
   contacts,
   address: "NPLYBOARDS, Kerala, India",
   hours: "Mon – Sat, 9:00 AM – 7:00 PM · Sunday closed",
